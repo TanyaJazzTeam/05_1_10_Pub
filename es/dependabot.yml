@@ -3,7 +3,8 @@ version: 2
 updates:
 - package-ecosystem: npm
   directory: "/"
-  schedule: {}
+  schedule:
+    interval: mensual п
   commit-message:
     prefix: "\U0001F4CC"
   ignore:
